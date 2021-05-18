@@ -8,3 +8,7 @@ Language-
 
 Tool for GUI-
 - Tkinter
+
+```bash
+Accuracy: 95%
+```
