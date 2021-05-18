@@ -12,3 +12,13 @@ Tool for GUI-
 ```bash
 Accuracy: 95%
 ```
+
+## Usage:
+To run notebook
+```bash
+Run Parkinsons_SVM.ipynb
+``` 
+To train and use the model in GUI
+```bash
+Run Main.py
+``` 
